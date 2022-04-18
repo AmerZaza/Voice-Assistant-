@@ -52,7 +52,7 @@ def jarvis(data):
         
     ###################### by Amer for test
     if "are you crazy" in data:
-        speak("No, but you are Crazy, man")
+        speak("No, I am not")
     ######################
 
 # initialization
